@@ -1,3 +1,4 @@
+
 ### 👋 About Me:
 
 - 🎓 [Your degree/field] student at [Your university], [Your city]
@@ -17,8 +18,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 📊 GitHub Stats:
+### 📌 Featured Project:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=asadasgharali123-design&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asadasgharali123-design&layout=compact)
+**[NovaBank ATM System](https://github.com/asadasgharali123-design/NovaBank-ATM)** — A full-stack ATM banking simulation built with Python, Flask, HTML, CSS & JavaScript, featuring secure login, deposits, withdrawals, transfers, and transaction history with JSON-based storage.
